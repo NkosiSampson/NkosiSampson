@@ -9,3 +9,5 @@
 📫 How to reach me: [Message me on LinkedIn](https://www.linkedin.com/in/nkosi-sampson-3335b725a/)
 
 📄[View My Resume](https://github.com/NkosiSampson/Resume/blob/main/resume.pdf)
+
+⬇️ Check out my recent Data Projects below ⬇️
